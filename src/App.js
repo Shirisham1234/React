@@ -1,14 +1,11 @@
-import Header from "./Components/Header.jsx"
-import Footer from "./Components/Footer.jsx"
-import Message from "./Components/Message.jsx"
+import Footer from "./Components/Footer";
+import Header from "./Components/Header"
 
 function App(){
     return <div>
         <h1>Good Morning</h1>
         <Header/>
-        <Footer/>
-        <Footer/>
-        <Message/>
+        <Footer/> 
     </div>
 }
-export default App
+export default App;
