@@ -1,7 +1,6 @@
 import ReactDOM from "react-dom" 
 
 import App from "./App"
-//import "../node_modules/bootstrap/dist/css/bootstrap.css"
 //ReactDOM.render(1,2)
 //ReactDOM.render("Hello,GM",document.getElementById("root"));
 //ReactDOM.render(<h1>Hello,GA</h1>,document.getElementById("root"));
